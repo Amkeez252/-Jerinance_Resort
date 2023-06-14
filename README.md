@@ -3,6 +3,7 @@
 <p>The Online Hotel Booking System is my final project at ALX. The system is designed for Jerinance Suite. It is a web system that provides an environment for users to book rooms online via computers or phones. The system is a 3-tier-distributed architecture that displays the user interface to a Web browser using PHP. The middle tier is the Apache Web server that handles requests from the client Web browser and provides access to the third tier MySQL database.</p>
 <p>To view the deployed project, visit <a href="https://nancyiddy.github.io/Jerinance_Resort/">nancyiddy.github.io/Jerinance_Resort</a></p>
 <p>You can also connect with the author on Linkedin: <a href="https://www.linkedin.com/in/nancy-iddy/" target="_blank">Nancy_Iddy</a></p>
+<p>And <a href="https://www.linkedin.com/in/auwal-abdulmalik-5432a4252" terget="_blank">Auwal_Abdulmalik></a></p>
 <p>The main objective of the entire activity was to automate the process of day to day activities of Jerinance Resort, such as:</p>
 
 - Home Page.
