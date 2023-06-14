@@ -54,18 +54,10 @@ input {
   align-content: center;
 }
     </style>
-<!-- 
 
-Fantasy Template
 
-http://www.templatemo.com/tm-393-fantasy
 
--->
-	<!-- HTML 5 shim for IE backwards compatibility -->
-		<!-- [if lt IE 9]>
-		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
-		</script>
-		<![endif]-->
+	
 </head>
 <body>
 	<div id="main_container">
@@ -91,7 +83,9 @@ http://www.templatemo.com/tm-393-fantasy
 	    <div id="content">
 			<h1>Admin Login!</h1>
 			<table width="50%" cellspacing="5" cellpadding="5" align="center" bgcolor="#FFFFFF">
-  <form action="reservation.php" method="get"><tbody>
+  
+				  <!-- html form -->
+				<form action="reservation.php" method="get"><tbody>
     <tr>
       <td scope="col">Username</td>
 		<td><input type="text" name="username" placeholder="Enter Your Username"></td>
@@ -117,6 +111,9 @@ http://www.templatemo.com/tm-393-fantasy
 	    <div class="row" id="thumbnails_container"></div>
 	    <!-- thumbnail area -->
       </div>
+
+  <!-- footer -->
+
       <footer class="container">
         <div class="credit row">
           <div class="col-md-6 col-md-offset-3">
